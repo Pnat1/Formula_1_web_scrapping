@@ -1,5 +1,5 @@
 
-![](image/formula_ferrari.jpg)
+![](/image/formula_ferrari.jpg)
 
 
 # Web Scrapping Mini Project
