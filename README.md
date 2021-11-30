@@ -1,7 +1,5 @@
 
-<img src= "Image/Taste of cinema.png">
-#Recuerda cambiar el link de la imagen
-![](Image/Taste of cinema.png)
+![](image/formula_ferrari.jpg)
 
 
 # Web Scrapping Mini Project
