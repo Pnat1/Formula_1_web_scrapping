@@ -19,7 +19,7 @@ I was recently hired as a  data analyst by Formula 1 to conduct a driver and tea
 ## Deliverables
 1) Jupyter notebook with the scraped data.
 2) Exported cleaned data and visualization data.
-3) Create a markdown file (like the readme) with a brief report including at least 5 graphs summarizing conclusions. Using markdown format and including the exported graphs as images.
+3) Brief Report including at least 5 graphs summarizing conclusions. Using markdown format and including the exported graphs as images.
 
 
 ## Links & Resources
